@@ -1,0 +1,9 @@
+C:\Users\ACER\source\repos\Tera Bonus-GDIOnly\Tera Bonus\bin\Debug\Tera Bonus-GDIOnly.exe
+C:\Users\ACER\source\repos\Tera Bonus-GDIOnly\Tera Bonus\bin\Debug\Tera Bonus-GDIOnly.pdb
+C:\Users\ACER\source\repos\Tera Bonus-GDIOnly\Tera Bonus\obj\Debug\Tera Bonus-GDIOnly.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Tera Bonus-GDIOnly\Tera Bonus\obj\Debug\Tera_Bonus.Form1.resources
+C:\Users\ACER\source\repos\Tera Bonus-GDIOnly\Tera Bonus\obj\Debug\Tera_Bonus.Properties.Resources.resources
+C:\Users\ACER\source\repos\Tera Bonus-GDIOnly\Tera Bonus\obj\Debug\Tera Bonus-GDIOnly.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Tera Bonus-GDIOnly\Tera Bonus\obj\Debug\Tera Bonus-GDIOnly.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Tera Bonus-GDIOnly\Tera Bonus\obj\Debug\Tera Bonus-GDIOnly.exe
+C:\Users\ACER\source\repos\Tera Bonus-GDIOnly\Tera Bonus\obj\Debug\Tera Bonus-GDIOnly.pdb
